@@ -79,6 +79,10 @@ This project fine-tunes a pre-trained BERT model to analyze sentiments in tweets
 | Negative  | “This was a waste of time.” |
 | Neutral   | “The event is tomorrow.”    |
 
+<img width="1210" height="638" alt="Screenshot 2025-10-07 004656" src="https://github.com/user-attachments/assets/5bd9953f-abd9-4a90-810f-8c79c6117edf" />
+
+<img width="1283" height="673" alt="Screenshot 2025-10-07 004642" src="https://github.com/user-attachments/assets/cf7ce6b0-13e6-4afc-8358-be2aa3a16ca7" />
+
 ---
 
 ## 🧾 Future Improvements
