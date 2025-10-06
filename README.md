@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis using BERT
+# Sentiment Classification of Tweets with NLP
 
 This project performs **sentiment analysis on Twitter data** using **BERT (Bidirectional Encoder Representations from Transformers)**. It classifies tweets as **Positive**, **Negative**, or **Neutral**, leveraging state-of-the-art NLP techniques for high accuracy.
 
